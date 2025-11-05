@@ -17,8 +17,8 @@ module.exports = [
     config: {
       enabled: true,
       origin: [
-        'https://loi-no-hako.jp',           // 本番環境のドメイン
-        'https://*.loi-no-hako.jp',         // サブドメイン
+        'https://showcasehotel-kasane.jp/',           // 本番環境のドメイン
+        'https://*.showcasehotel-kasane.jp/',         // サブドメイン
         'https://your-cloudflare-worker.workers.dev', // Cloudflare Workers URL
         'http://localhost:3000',            // ローカル開発環境
       ],
